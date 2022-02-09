@@ -4,7 +4,7 @@
 <ul>
     <li> Boiled amazing eggs nham nham </li> 
     <li> Fried and maybe burned eggs :D </li>
-    <li> Versatile omelet/scramble eggs </li>
+    <li> Versatile omelette/scramble eggs </li>
 </ul>
 <p> I hope you enjoy it and learn how to cook your next lunch without having to order pizZa. </p>
-<p> xoxo Herevin ツ </p>
+<p> <center> Herevin ツ </center> </p>
